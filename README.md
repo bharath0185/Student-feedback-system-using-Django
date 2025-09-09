@@ -1,8 +1,6 @@
 # Student-feedback-system-using-Django
 
-Sure! Here’s a detailed README file for a student feedback system using Django:
 
----
 
 # Student Feedback System
 
